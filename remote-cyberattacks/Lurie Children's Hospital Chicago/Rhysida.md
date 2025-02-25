@@ -14,7 +14,7 @@ Rhysida uses "**Living of the Land"** techniques to hide in plain sight. The gro
 Privilege escalation is achieved by creating **Remote Desktop** or **SSH** (remote login from one computer into another) for horizontal privilege escalation, gaining access to users of the same privileges. The group also **extracts passwords from memory** using specialized tools.
 
 # Ransomware
-Rhysida maps the network, and the ransomware encrypts data via **4096-bit RSA encryption with a ChaCha20 algorithm**. The victim is unable to access the encrypted files.
+Rhysida maps the network, and the ransomware encrypts data via **4096-bit RSA encryption** (public key) and **ChaCha20 algorithm** (private key). The victim is unable to access the encrypted files.
 
 The group engages in **double extortion** after the files are encrypted, demanding ransom to
 - Decrypt encrypted files
