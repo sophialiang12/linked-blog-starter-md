@@ -1,0 +1,8 @@
+A ransomware group that licenses and distributes its malware to ransomware-as-a-service (RaaS) which lowers the bar for entry to hackers looking to disrupt operations/extort organizations for financial gain, the affiliate will pay the provider a share of the profits gained from the attack.
+* has made made at least $100 million in ransom demands ([source](https://www.cbc.ca/news/canada/toronto/sickkids-attack-1.6705843))
+* thought to be connected to Russia and Eastern Europe and typically demands payment in cryptocurrency, often bitcoin ([source](https://www.controleng.com/throwback-attack-christmas-attack-on-sickkids-hospital-prompts-rare-apology-from-lockbit/))
+* an arrest of a Russian-Canadian citizen was made in October 2022 for his alleged participation in the group ([source](https://www.cbc.ca/news/canada/toronto/sickkids-attack-1.6705843))
+
+[According to Globalnews.ca](https://www.healthcareitnews.com/news/lockbit-ransomware-group-apologizes-childrens-hospital-cyberattack), LockBit issued an apology on the dark web on the 31st, which was posted on [Twitter](https://x.com/AlvieriD/status/1609253113436700678?s=20&t=hLelspGcmLxOXfsYyHJxGg): ![[Pasted image 20250319231806.png]]
+- Basically LockBit runs a RaaS business and their affiliates are responsible for the attacks, and LockBit just runs the encryptors. LockBit prohibits attacks on medical centers where the breach could lead to death ([source](https://www.controleng.com/throwback-attack-christmas-attack-on-sickkids-hospital-prompts-rare-apology-from-lockbit/))
+	
