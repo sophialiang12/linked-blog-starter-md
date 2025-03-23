@@ -14,6 +14,7 @@ as well as stealing patient data. While EHR was down, staff had to use an analog
 
 [CBS4 Indy](https://www.youtube.com/watch?v=NofGfUnptfs) Justin Niesr was a travel nurse working at Ascension St. Vincent.
 - "Delays in X-Rays, CTs, MRIs, ..."
+
 He caught many errors because of the switch from online to paper record keeping. He was asked by his boss to move to another unit that he had no training for, causing him and another nurse to resign.
 - "Not worth patient risk..."
 # Attribution
