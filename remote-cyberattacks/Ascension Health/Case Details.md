@@ -9,13 +9,24 @@ as well as stealing patient data. While EHR was down, staff had to use an analog
 - Marvin Ruckle (Nurse) "He nearly gave a baby 'the wrong dose of narcotic' because of confusing paperwork."
 - Lisa Watson (ICU Nurse) "She said she nearly administered the wrong medication to a critically ill patient because she couldn’t scan it as she normally would. 'My patient probably would have passed away had I not caught it'"
 - Melissa LaRue (ICU Nurse) "...described a close call with 'administering the wrong dosage' of a patient’s blood pressure medication"
-While the technology was out, ..............
 
+[Reddit](https://www.reddit.com/r/nursing/comments/1cnox74/ascension_cyber_attack/) The outage caused a frantic shift to convert to paper charting, which overwhelmed many staff members, such as [[Taj525]] at Ascension healthcare facilities. 
+
+[CBS4 Indy](https://www.youtube.com/watch?v=NofGfUnptfs) Justin Niesr was a travel nurse working at Ascension St. Vincent.
+- "Delays in X-Rays, CTs, MRIs, ..."
+He caught many errors because of the switch from online to paper record keeping. He was asked by his boss to move to another unit that he had no training for, causing him and another nurse to resign.
+- "Not worth patient risk..."
 # Attribution
-[Healthcare IT News](https://www.healthcareitnews.com/news/ascension-confirms-data-breached-black-basta-ransomware-attack) [[Black Basta]]
-# Attack Vector
-[ThinkStack](https://www.thinkstack.co/blog/the-ascension-incident-how-one-email-took-down-an-entire-hospital-system)
+[Bleeping Computer](https://www.bleepingcomputer.com/news/security/ascension-health-data-of-56-million-stolen-in-ransomware-attack/) CNN attributed the cyber attack to [[Black Basta]], and Health-ISAC warned of "recently accelerated attacks against the healthcare sector" from Black Basta.
 
+[HIPAA Journal](https://www.hipaajournal.com/ascension-cyberattack-2024/?utm_source=chatgpt.com) While the total ransom that Black Basta demanded is not known currently, Ascension has lost $1.1 billion for the fiscal year ending June 30, 2024, most directly linked to the Black Basta outage.
+
+[The Register](https://www.theregister.com/2024/05/13/cisa_ascension_ransomware) Typically, Black Basta has ransom demands into 6-figures.
+# Attack Vector
+[SC Media](https://www.scworld.com/news/patient-data-stolen-in-ascension-ransomware-attack-but-ehr-restored) The threat actor most likely gained access to the Ascension network through spear phishing, when an employee accidentally downloaded malware thinking it was legitimate.
+- “The Ascension announcement is not a surprise, the Health Sector Coordinating Council identified social engineering as the first attack vector to be concerned about when prioritizing risk remediation.” - Toby Gouker
+
+After gaining access to Ascension systems, the threat actors most likely escalated privileges via their TTPs and encrypted important hospital information to prevent staff from accessing it.
 # Scope
 [HIPPA Journal](https://www.hipaajournal.com/ascension-cyberattack-2024/) The threat actor breached 5,599,699 patient records, making it the third largest healthcare data breach of 2024. Breached data includes
 - Personal information
