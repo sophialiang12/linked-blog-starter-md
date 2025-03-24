@@ -1,0 +1,6 @@
+President of Florida Hospital Association, [statements to ABC](https://www.abcactionnews.com/news/local-news/i-team-investigates/cyberattack-on-oneblood-put-lives-at-risk-as-more-than-80-of-the-nations-platelets-were-sent-to-florida-during-outage)
+- “It is absolutely a situation that could have resulted in the loss of lives since it almost cut off the supply of blood to hospitals"
+- "One of our larger hospitals generally receives 80 units of platelets a day. They received nine units today. A mom delivering a baby that is hemorrhaging could use immediately nine units of platelets. That's the difference." "So hospitals are having to make very difficult decisions, but trying to triage and prioritize those truly urgent surgeries that are critically important and life-saving.”
+- “When this was first occurring, there was not a public acknowledgment that this was a cyberattack" until two days after, at first it was only known in the medical community
+- “Terms were being used like, this is going to affect ‘elective’ procedures — that is not what was occurring." "Certain cancer treatments could not be provided because they simply did not have the blood supply, the platelets that were needed.”
+- "At one point, we were receiving over 80% of the platelets for Florida's hospitals from the national blood supply"
