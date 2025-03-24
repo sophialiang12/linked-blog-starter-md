@@ -10,13 +10,16 @@ as well as stealing patient data. While EHR was down, staff had to use an analog
 - Lisa Watson (ICU Nurse) "She said she nearly administered the wrong medication to a critically ill patient because she couldn’t scan it as she normally would. 'My patient probably would have passed away had I not caught it'"
 - Melissa LaRue (ICU Nurse) "...described a close call with 'administering the wrong dosage' of a patient’s blood pressure medication"
 
-[Reddit](https://www.reddit.com/r/nursing/comments/1cnox74/ascension_cyber_attack/) The outage caused a frantic shift to convert to paper charting, which overwhelmed many staff members, such as [[Taj525]] at Ascension healthcare facilities. 
+[Reddit](https://www.reddit.com/r/nursing/comments/1cnox74/ascension_cyber_attack/) This Reddit thread has the reaction of many staff members at Ascension healthcare facilities across the country. The outage caused a frantic shift to convert to paper charting, which overwhelmed many staff members, such as [[Taj525]] at Ascension healthcare facilities. 
 
 [CBS4 Indy](https://www.youtube.com/watch?v=NofGfUnptfs) Justin Niesr was a travel nurse working at Ascension St. Vincent.
 - "Delays in X-Rays, CTs, MRIs, ..."
 
 He caught many errors because of the switch from online to paper record keeping. He was asked by his boss to move to another unit that he had no training for, causing him and another nurse to resign.
 - "Not worth patient risk..."
+
+## Potential Build up of Cyberattack
+[The Stack](https://www.thestack.technology/ascension-cyber-attack/) [Reddit Post](https://www.reddit.com/r/cybersecurity/comments/1cqzr0u/comment/l3uzdrm/) "Ascension fired hundreds of IT staff and outsourced the roles to India. On Reddit after that decision, one purported former staffer commented “it needs to be publicly understood that trying to pull some lowest common denominator shit with your ENTIRE IT department is going to go up in flames.”"
 # Attribution
 [Bleeping Computer](https://www.bleepingcomputer.com/news/security/ascension-health-data-of-56-million-stolen-in-ransomware-attack/) CNN attributed the cyber attack to [[Black Basta]], and Health-ISAC warned of "recently accelerated attacks against the healthcare sector" from Black Basta.
 
