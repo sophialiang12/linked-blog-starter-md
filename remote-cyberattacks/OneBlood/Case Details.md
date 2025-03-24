@@ -1,13 +1,16 @@
-OneBlood, non-profit blood donation organization, operates in Florida, Georgia, Alabama, NC and SC
-- Started July 26 2024, attack disabled the system that allows OneBlood to quickly label and distribute blood. OneBlood reported that it was able to return to normal distribution after 10 days.
-	- had to manually label blood products, so delivery of blood to over 250 hospitals was significantly slowed ([source](https://www.cnn.com/2024/07/31/politics/cyberattack-oneblood-blood-donation/index.html)) -> had postponed surgeries 
+OneBlood, non-profit blood donation organization based in Orlando, operates in Florida, Georgia, Alabama, NC and SC
+- Detected on July 28 2024 (but group had access to IT network starting 14th), attack disabled the system - the VMware hypervisor infrastructure - that allows OneBlood to quickly label and distribute blood. OneBlood reported that it was able to return to normal distribution as of August 8. ([HIPAA](https://www.hipaajournal.com/oneblood-ransomware-attack/))
+	- had to manually label blood products, so delivery of blood to over 350 hospitals was significantly slowed ([source](https://www.cnn.com/2024/07/31/politics/cyberattack-oneblood-blood-donation/index.html)) -> had postponed surgeries 
 		- other blood blanks have manual labelling for downtimes but OneBlood never had a manual labelling system before this ([according to reddit user](https://www.reddit.com/r/medlabprofessionals/comments/1eg9us8/comment/lfuznbo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button))
-- Names and SSNs were stolen and for a 2 week period certain files and folders were copied from their network without authorization ([source](https://therecord.media/oneblood-breach-report-regulators-privacy))
-	- only reported that 281 people in Maine were impacted, OneBlood actually left out the part of reporting form about how many total people were affected by the breach 
+- Names and SSNs were stolen and for a 2 week period certain files and folders were copied from their network without authorization ([source](https://therecord.media/oneblood-breach-report-regulators-privacy)) ([HIPAA](https://www.hipaajournal.com/oneblood-ransomware-attack/))
+	- only reported that 281 people in Maine were impacted and 1530 SC resident affected ([source](https://www.bankinfosecurity.com/oneblood-notifying-donors-affected-by-2024-ransomware-hack-a-27287)), OneBlood actually left out the part of reporting form about how many total people were affected by the breach ([source](https://therecord.media/oneblood-breach-report-regulators-privacy)) 
+	- After 5 months, notification letters will start being mailed out January 2025 ([HIPAA](https://www.hipaajournal.com/oneblood-ransomware-attack/)) 
 - “We have implemented manual processes and procedures to remain operational. Manual processes take significantly longer to perform and impacts inventory availability. In an effort to further manage the blood supply we have asked the more than 250 hospitals **we serve to activate their critical blood shortage protocols** and to remain in that status for the time being,” said Susan Forbes, senior VP for the nonprofit. ([CNN](https://www.cnn.com/2024/07/31/politics/cyberattack-oneblood-blood-donation/index.html)) 
 	- [Forbes](https://www.abcactionnews.com/news/local-news/i-team-investigates/cyberattack-on-oneblood-put-lives-at-risk-as-more-than-80-of-the-nations-platelets-were-sent-to-florida-during-outage): “Something that may take 30 seconds to label a blood product, may now take 5 or 6 minutes"
 	- Significantly impacted Type O blood and platelets since they only have shelf life of 5 days, and they're in highest demand by hospitals
 		- platelets are used in surgeries and procedures
+		- [Forbes](https://mynews13.com/fl/orlando/news/2024/07/31/oneblood-experiencing-a-ransomware-attack-across-centers): “The blood supply cannot be taken for granted. The situation we are dealing with is ongoing. If you are eligible to donate, we urge you to please make an appointment to donate as soon as possible,”
+	- other national blood center are sending blood to make up for it but it's still not enough ([source](https://www.bankinfosecurity.com/ransomware-hit-on-florida-blood-center-affects-supplies-a-25899))
 
 ## Perspectives
 - [[Mayhew (Florida)]] 
@@ -21,6 +24,7 @@ OneBlood, non-profit blood donation organization, operates in Florida, Georgia, 
 	- [criticism of hospitals on reddit](https://www.reddit.com/r/technology/comments/1ej732x/comment/lgcrsbk/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button): "A good DR (disaster recovery) plan will have you back online in hours without having to pay the ransom. Money hungry hospitals cheaping out on their backend need to be put on blast.
 
 
-
-"
-
+## Suspected Actor
+RansomHub group 
+ "is a Ransomware-as-a-Service variant—formerly known as Cyclops and Knight—that has established itself as an efficient and successful service model (recently attracting high-profile affiliates from other prominent variants such as LockBit and ALPHV)." ([source](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a))
+ - since February 2024 has targeted water and wastewater, information technology, government services and facilities, healthcare and public health, emergency services, food and agriculture, financial services, commercial facilities, critical manufacturing, transportation, and communications critical infrastructure sectors
