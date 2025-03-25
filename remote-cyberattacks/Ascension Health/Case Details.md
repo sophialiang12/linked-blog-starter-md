@@ -25,6 +25,9 @@ He caught many errors because of the switch from online to paper record keeping.
 
 ## Potential Build up of Cyberattack
 [The Stack](https://www.thestack.technology/ascension-cyber-attack/) [Reddit Post](https://www.reddit.com/r/cybersecurity/comments/1cqzr0u/comment/l3uzdrm/) "Ascension fired hundreds of IT staff and outsourced the roles to India. On Reddit after that decision, one purported former staffer commented “it needs to be publicly understood that trying to pull some lowest common denominator shit with your ENTIRE IT department is going to go up in flames.”"
+
+## Decreased Morale in General
+[Healthcare Dive](https://www.healthcaredive.com/news/ascension-outsource-private-equity-chicago/711372/) In March of 2024, Ascension announced plans to outsource hospital roles in the Chicago area to SCP Health. Therefore, current staff members in the Ascension hospitals had to reapply for their positions with SCP Health, decreasing morale. In the past year, at least five strikes were initiated by workers due to the labor conditions in Ascension hospitals.
 # Attribution
 [Bleeping Computer](https://www.bleepingcomputer.com/news/security/ascension-health-data-of-56-million-stolen-in-ransomware-attack/) CNN attributed the cyber attack to [[Black Basta]], and Health-ISAC warned of "recently accelerated attacks against the healthcare sector" from Black Basta.
 
