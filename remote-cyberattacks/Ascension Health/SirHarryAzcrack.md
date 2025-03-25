@@ -1,0 +1,2 @@
+[Reddit Profile](https://www.reddit.com/user/SirHarryAzcrack/) Worked at Ascension during outage, here's what they said on Reddit.
+- [Reddit Post](https://www.reddit.com/r/nursing/comments/1cof30p/comment/l3ew0ht/) "I do and what I worry about is that they never trained us for paper charting so that is my concern. I don’t know what to chart bc I was never trained in it. I’m also not looking forward to the shit show that will likely result from not being able to have computers. I’m sure we will figure it out it’s just going to be unneeded stress."

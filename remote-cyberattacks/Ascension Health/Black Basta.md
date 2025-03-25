@@ -7,9 +7,15 @@
 [HHS](https://www.hhs.gov/sites/default/files/black-basta-threat-profile.pdf)
 ![[Screenshot 2025-03-23 at 12.48.16 AM.png]]
 # Gaining Access
-Black Basta gains access to networks through spearphishing and Qakbot, a malware loader and Trojan that is typically used as a delivery mechanism for ransomware by email thread hijacking.
+[CISA](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a) Black Basta gains access to networks through spearphishing and Qakbot, a malware loader and Trojan that is typically used as a delivery mechanism for ransomware by email thread hijacking.
 
 They may also take advantage of unpatched vulnerabilities in public-facing applications, or use stolen credentials to gain access to remote services.
 
 # Escalation and Lateral Movement
-Black Basta uses Mimikatz for privilege escalation and BITSAdmin, PsExec, and Remote Desktop Protocol for lateral movement.
+[CISA](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a) Black Basta uses Mimikatz for credential scraping to escalate privileges in the network. They have also exploited CVEs for local and Windows Active Directory privilege escalation.
+
+For lateral movement, Black Basta uses tools such as BITSAdmin, PsExec, and Remote Desktop Protocol.
+# Double Extortion
+[CISA](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a) Black Basta uses RClone for data syncing used for exfiltration and PowerShell to disable antivirus protections in the network.
+
+Files are encrypted using a ChaCha20 algorithm with RSA-4096 public key encryption, with a .basta file extension added to file names and a readme.txt file as a ransom note.

@@ -12,11 +12,16 @@ as well as stealing patient data. While EHR was down, staff had to use an analog
 
 [Reddit](https://www.reddit.com/r/nursing/comments/1cnox74/ascension_cyber_attack/) This Reddit thread has the reaction of many staff members at Ascension healthcare facilities across the country. The outage caused a frantic shift to convert to paper charting, which overwhelmed many staff members, such as [[Taj525]] at Ascension healthcare facilities. 
 
+[Reddit](https://www.reddit.com/r/nursing/comments/1cof30p/ascension_systems_down/) Furthermore, much of the staff was not trained for paper charting. For example, Reddit user [[Wineinmyyetti]] had to document and order 100 folders of patient records, and [[SirHarryAzcrack]] was never trained either. No plan B worries many staff members, such as [[soggydave2113]].
+
+[Reddit](https://www.reddit.com/r/nursing/comments/1cn7evo/ascension_outage/) Paying is also an issue: [[Money_Potato2609]], causing some people to question whether or not to quit.
+
 [CBS4 Indy](https://www.youtube.com/watch?v=NofGfUnptfs) Justin Niesr was a travel nurse working at Ascension St. Vincent.
 - "Delays in X-Rays, CTs, MRIs, ..."
 
 He caught many errors because of the switch from online to paper record keeping. He was asked by his boss to move to another unit that he had no training for, causing him and another nurse to resign.
 - "Not worth patient risk..."
+- "good luck going to an Ascension hospital, you might die"
 
 ## Potential Build up of Cyberattack
 [The Stack](https://www.thestack.technology/ascension-cyber-attack/) [Reddit Post](https://www.reddit.com/r/cybersecurity/comments/1cqzr0u/comment/l3uzdrm/) "Ascension fired hundreds of IT staff and outsourced the roles to India. On Reddit after that decision, one purported former staffer commented “it needs to be publicly understood that trying to pull some lowest common denominator shit with your ENTIRE IT department is going to go up in flames.”"
