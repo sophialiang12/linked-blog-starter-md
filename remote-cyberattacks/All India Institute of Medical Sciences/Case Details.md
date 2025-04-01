@@ -18,7 +18,7 @@ Sources also say Chinese hackers were suspected - police investigation found the
 - Malware used: Wammacry, Mimikatz, and Trojan
 Cybersecurity firms Recorded Future and Sentinel Labs identified the group as an ChamelGang which used the ransomware CatB [source](https://www.medianama.com/2024/06/223-china-backed-hacker-group-behind-aiims-attack-report/) 
 - ChamelGang uses ransomware to distract from their cyber espionage operations: "Adversarial countries are also afforded plausible deniability in such cases, as they **can blame independent cyber criminals** instead of **state-sponsored cyber-spies**. Misattributing cyberespionage activities as cybercriminal operations can result in strategic repercussions" [Sentinel report](https://www.darkreading.com/ics-ot-security/china-nexus-group-using-ransomware-to-disguise-cyber-espionage-activities)
-- These actors are aiming to gain and retain access to critical systems and data that can be used to target institutions and key decision-makers in times of peace or geopolitical conflict [source](https://sectrio.com/blog/deciphering-the-latest-attack-on-aiims/)
+- These actors are aiming to gain and retain access to critical systems and PII data that can be used to target institutions and key decision-makers in times of peace or geopolitical conflict, but do it under the guise of a ransomware attack for financial gain [source](https://sectrio.com/blog/deciphering-the-latest-attack-on-aiims/)
 ## Perspectives
-[[Doctors]]
+Many [[Doctors]] had expressed concerns over AIIMS cybersecurity framework before the attack.
 [[Patients]] 
