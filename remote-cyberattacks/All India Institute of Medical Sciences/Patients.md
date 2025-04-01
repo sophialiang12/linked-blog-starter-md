@@ -1,3 +1,7 @@
 [News story](https://www.reddit.com/r/unitedstatesofindia/comments/zgkv7u/online_servers_at_delhis_aiims_were_crippled_by_a/): citizens report having to travel 500 km to get an appointment, since there are no online services they keep having to go back to the hospital every day to get an appointment
 - "I stood in queue for the appointment between 3am to 10am but before my turn came, the manger announced that all the slots for the day were booked"
 "I'm trying to book an appointment since the day this happened :(" [reddit user](https://www.reddit.com/r/india/comments/z734vw/hackers_demand_rs_200cr_in_cryptocurrency_from/) 
+
+[Reddit thread](https://www.reddit.com/r/delhi/comments/zaqrrc/how_messed_up_is_the_aiims_situation_and_how_no/) expressing outrage over lack of action from the government to address the attack
+- "It has been 8 days and neither has the govt done anything or called in CERT-In to take a look into the cluster fuck of a mess a single employee of this hospital created."
+- "What’s frightening is the poor cyber sec in our government institutions. Anyone who has worked in infosec has horror stories about government sites. I don’t know what would happen if we get into a war with china. They have a very robust hacking scene and with our security infra we are awfully exposed"
