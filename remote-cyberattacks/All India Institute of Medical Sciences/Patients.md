@@ -1,0 +1,3 @@
+[News story](https://www.reddit.com/r/unitedstatesofindia/comments/zgkv7u/online_servers_at_delhis_aiims_were_crippled_by_a/): citizens report having to travel 500 km to get an appointment, since there are no online services they keep having to go back to the hospital every day to get an appointment
+- "I stood in queue for the appointment between 3am to 10am but before my turn came, the manger announced that all the slots for the day were booked"
+"I'm trying to book an appointment since the day this happened :(" [reddit user](https://www.reddit.com/r/india/comments/z734vw/hackers_demand_rs_200cr_in_cryptocurrency_from/) 

@@ -2,19 +2,22 @@ On November 23, 2022 AIIMS Delhi, a government-run hospital and medical college,
 * For 15 days, the attack forced all operations to be conducted manually. Restored to normal and retrieved most of the lost data by December 6, 2022 [source](https://www.gbb.co.in/the-rise-of-ransomware-take-a-peek-into-aiims-cyber-attack-and-how-organizations-should-proactively-counter-such-attacks/)
 * AIIM's cybersecurity front had been lacking, according to [report](https://www.hindustantimes.com/cities/delhi-news/report-flags-host-of-security-lapses-at-aiims-101670359251255.html): had no safeguards at various intermediary points, called switches, and since the firewall had not been configured properly, the hackers were able to quickly gain unrestricted access
 	* Many emails on the AIIMS website include doctors still using personal Gmail accounts for official work [source](https://theprint.in/india/was-aiims-cyberattack-inevitable-doctors-flagged-risks-soon-after-hospital-went-digital-in-2016/1257615/)
+* Hackers breached 5 physical servers from a pool of 100 (40 physical and 60 virtual servers) [source](https://jim.imibh.edu.in/doi/pdf/10.1177/ijim.241240911.pdf)
 
 ### Impact
-* The sensitive data of high profile patients like political leaders and VIPs were compromised, employee login credentials, vaccination, and blood donor information were all stolen [source](https://www.gbb.co.in/the-rise-of-ransomware-take-a-peek-into-aiims-cyber-attack-and-how-organizations-should-proactively-counter-such-attacks/)
+* The sensitive data of high profile patients (Personally Identifiable Information PII) like political leaders, former prime ministers, bureaucrats, and judges and VIPs were compromised, employee login credentials, vaccination, and blood donor information were all stolen, affecting nearly 30-40 million patients  [source](https://www.gbb.co.in/the-rise-of-ransomware-take-a-peek-into-aiims-cyber-attack-and-how-organizations-should-proactively-counter-such-attacks/)
  * Registration, admission, billing, and discharge, appointment system services were inaccessible [source](https://www.gbb.co.in/the-rise-of-ransomware-take-a-peek-into-aiims-cyber-attack-and-how-organizations-should-proactively-counter-such-attacks/). 
  * Disrupted the process of using the Unique Health ID to make patient records available outside the AIIMS server for more seamless care.
  * Treatment processes and appointments were delayed/cancelled. 
  * Medical data, test findings, and treatment plans were compromised [source](https://www.cyberpeace.org/resources/blogs/cyber-attack-alert-aiims-attacked-again)
  * The attack generated public concern over AIIMS' ability to protect sensitive information: 
-	 * 
+ * On June 6 2023 AIIMS was hit again but the threat was neutralized, e-Hospital services remained fully secure [source](https://www.livemint.com/news/india/aiims-delhi-hit-by-fresh-cyberattacks-details-here-11686061994629.html)
 ## Suspected Actor
-LockBit, allegedly demanded approximately Rs 200 crore (which is about $24.5 million) in cryptocurrency [source](https://www.cm-alliance.com/cybersecurity-blog/aiims-ransomware-attack)
+One [source]([source](https://www.cm-alliance.com/cybersecurity-blog/aiims-ransomware-attack)) says LockBit, allegedly demanded approximately Rs 200 crore (which is about $24.5 million) in cryptocurrency 
 Sources also say Chinese hackers were suspected - police investigation found the IP address of two emails involved in the hack originated in Hong Kong and China’s Henan province [source](https://www.gbb.co.in/the-rise-of-ransomware-take-a-peek-into-aiims-cyber-attack-and-how-organizations-should-proactively-counter-such-attacks/)
 - Malware used: Wammacry, Mimikatz, and Trojan
+Cybersecurity firms Recorded Future and Sentinel Labs identified the group as an ChamelGang which used the ransomware CatB [source](https://www.medianama.com/2024/06/223-china-backed-hacker-group-behind-aiims-attack-report/) 
+- ChamelGang uses ransomware to distract from their cyber espionage operations: "Adversarial countries are also afforded plausible deniability in such cases, as they **can blame independent cyber criminals** instead of **state-sponsored cyber-spies**. Misattributing cyberespionage activities as cybercriminal operations can result in strategic repercussions" [Sentinel report](https://www.darkreading.com/ics-ot-security/china-nexus-group-using-ransomware-to-disguise-cyber-espionage-activities)
 ## Perspectives
 [[Doctors]]
-* 
+[[Patients]] 
