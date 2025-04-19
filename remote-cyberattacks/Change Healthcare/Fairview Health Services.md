@@ -1,0 +1,4 @@
+Based in Minneapolis, sued Change over incurring approx. $7 million in losses when Change's claims processing and payment functions were down during the breach ([Beckers](https://www.beckershospitalreview.com/healthcare-information-technology/cybersecurity/health-system-sues-change-healthcare-over-7m-cyberattack-loss/))
+- “While our **teams worked tirelessly to protect patients** from further impact and to maintain continuity of care, this event **created confusion for patients** and raised serious concerns about the potential compromise of patient data, which we view as a critical breach of trust.” -from Fairview Health Services
+- UnitedHealth stated "We believe this lawsuit is baseless and we intend to defend ourselves vigorously"
+- 
